@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Part2_2
+comment0.text=\r\nHere\ we\ just\ looking\ how\ many\ times\ string\ a\ occurence\ in\ string\ b\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ testHowMany()
+comment3.params=stringa\ stringb
+comment3.target=int\ howMany(java.lang.String,\ java.lang.String)
+numComments=4

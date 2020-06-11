@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Part2_1
+comment0.text=\r\nThis\ prog\ will\ look\ for\ many\ genes\ in\ string.\ Also\ we\ adding\ more\ two\ codons\:\ TAA,\ TAG,\ TGA\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ testFindStopCodon()
+comment3.params=dna\ startIndex\ stopCodon
+comment3.target=int\ findStopCodon(java.lang.String,\ int,\ java.lang.String)
+comment4.params=dna\ startIndex
+comment4.target=java.lang.String\ findGene(java.lang.String,\ int)
+comment5.params=dna
+comment5.target=void\ printAllGene(java.lang.String)
+numComments=6
